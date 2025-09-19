@@ -1,4 +1,4 @@
-## Step 1: Hello Copilot
+## Step 1: Hello Copilot !!
 
 Welcome to your **"Getting Started with GitHub Copilot"** exercise! :robot:
 
